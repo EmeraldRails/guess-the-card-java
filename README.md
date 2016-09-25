@@ -1,2 +1,2 @@
-# guess-the-card-java
+# Guess The Card
 An addicting Java game
